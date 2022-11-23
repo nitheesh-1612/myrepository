@@ -1,3 +1,3 @@
 # this is a comment-line
-RUN echo hello
-RUN echo world
+FROM jenkins
+COPY /var/lib/jenkins/workspace/git_job/
