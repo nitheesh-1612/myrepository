@@ -1,3 +1,3 @@
 # this is a comment-line
 FROM jenkins
-COPY /var/lib/jenkins/workspace/git_job/
+COPY /var/lib/jenkins/workspace/git_job/index.html new
